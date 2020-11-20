@@ -10,5 +10,3 @@ Description: a simple .ini file parser written in C
 Version: @PACKAGE_VERSION@
 Libs: -L${libdir} -linih
 Cflags: -I${includedir}/inih
-Requires:
-Requires.private:
