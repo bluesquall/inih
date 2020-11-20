@@ -10,5 +10,5 @@ Description: a simple .ini file parser written in C
 Version: @PACKAGE_VERSION@
 Libs: -L${libdir} -linih
 Cflags: -I${includedir}/inih
-Requires: @AX_PACKAGE_REQUIRES@
-Requires.private: @AX_PACKAGE_REQUIRES_PRIVATE@
+Requires:
+Requires.private:
